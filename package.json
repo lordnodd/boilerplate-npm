@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "lordnodd",
 	"description": "Manners maketh man",
-	"keywords": ["backend","nodejs","microservices"],
+	"keywords": ["backend","nodejs","microservices","freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
